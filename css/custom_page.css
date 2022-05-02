@@ -1,0 +1,44 @@
+#header-img{
+    width: 100px;
+}
+body{
+    background-color:antiquewhite;
+    font-family: sans-serif
+}
+#shift-nav{
+    list-style: none;
+    position: relative;
+    text-align: center;
+
+}
+#page-wrapper{
+    position: relative;
+}
+#logo{
+    padding-left: 40px
+}
+.nav-link{
+    font-size: 20;
+}
+#l1, #l2, #l3{
+   margin: 20px; 
+}
+.video{
+    text-align: center;
+}
+.email-field{
+    text-align: center;
+    padding-top: 60px;
+}
+.button{
+    padding-top: 10px;
+}
+button{
+    background-color: rgb(233, 233, 225);
+    width: 60px;
+    height: 25px;
+    font-size: 15px;
+    color: rgb(14, 14, 196);
+    border-radius: 12px;
+    border-color: yellow;
+}
